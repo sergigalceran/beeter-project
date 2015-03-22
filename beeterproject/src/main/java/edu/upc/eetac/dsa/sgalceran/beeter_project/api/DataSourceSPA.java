@@ -1,9 +1,10 @@
 package edu.upc.eetac.dsa.sgalceran.beeter_project.api;
 
+import javax.naming.Context;
 import javax.naming.InitialContext;
 import javax.naming.NamingException;
 import javax.sql.DataSource;
-import javax.ws.rs.core.Context;
+
 
 public class DataSourceSPA {
 
